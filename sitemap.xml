@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+    <!-- Page d'accueil principale -->
+    <url>
+        <loc>https://bureau-clubs-educatifs.ci/</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://bureau-clubs-educatifs.ci/"/>
+        <xhtml:link rel="alternate" hreflang="fr-CI" href="https://bureau-clubs-educatifs.ci/"/>
+        <image:image>
+            <image:loc>https://bureau-clubs-educatifs.ci/og-image.jpg</image:loc>
+            <image:title>Bureau des Clubs éducatifs - Accompagnement éducatif en Côte d'Ivoire</image:title>
+            <image:caption>Le Bureau des Clubs éducatifs accompagne les établissements scolaires dans la création et le développement de clubs éducatifs</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://bureau-clubs-educatifs.ci/logo.png</image:loc>
+            <image:title>Logo Bureau des Clubs éducatifs</image:title>
+        </image:image>
+    </url>
+    
+    <!-- Section Hero / Accueil -->
+    <url>
+        <loc>https://bureau-clubs-educatifs.ci/#hero</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Section Services -->
+    <url>
+        <loc>https://bureau-clubs-educatifs.ci/#services</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Section Contact -->
+    <url>
+        <loc>https://bureau-clubs-educatifs.ci/#contact</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+</urlset>
+
