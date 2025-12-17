@@ -1,11 +1,11 @@
 # robots.txt pour Bureau des Clubs éducatifs
-# https://bureau-clubs-educatifs.ci
+# https://buced.org
 
 User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://bureau-clubs-educatifs.ci/sitemap.xml
+Sitemap: https://buced.org/sitemap.xml
 
 # Autoriser tous les robots d'indexation
 User-agent: Googlebot
